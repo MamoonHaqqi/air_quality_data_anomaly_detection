@@ -1,0 +1,4 @@
+.env
+.ipynb_checkpoints/*
+Test plot.png
+~$aqi_ranges.xlsx
